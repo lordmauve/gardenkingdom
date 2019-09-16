@@ -1,0 +1,6 @@
+log.txt
+*.pyc
+*.rpyc
+*.rpymc
+*.swp
+/game/cache

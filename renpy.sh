@@ -1,0 +1,1 @@
+../TwoWorldsGame/renpy-7.3.2-sdk/renpy.sh
